@@ -44,3 +44,10 @@ MonoBehaviour:
       id: 15
       description: Toggle Profiler
       axisConstraint: 0
+  - localizationKey: 
+    keyword: Take Picture
+    keyCode: 0
+    action:
+      id: 0
+      description: Toggle Profiler
+      axisConstraint: 0

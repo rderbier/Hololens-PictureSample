@@ -12,7 +12,7 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: DefaultCompany
+  companyName: rderbier
   productName: Hololens-PictureSample
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
@@ -557,7 +557,7 @@ PlayerSettings:
   scriptingDefineSymbols:
     4: 
     7: 
-    14: DOTNETWINRT_PRESENT
+    14: 
   platformArchitecture: {}
   scriptingBackend: {}
   il2cppCompilerConfiguration: {}
@@ -573,14 +573,14 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: Template3D
   metroPackageVersion: 1.0.0.0
-  metroCertificatePath: 
+  metroCertificatePath: Assets\WSATestCertificate.pfx
   metroCertificatePassword: 
-  metroCertificateSubject: 
-  metroCertificateIssuer: 
-  metroCertificateNotAfter: 0000000000000000
+  metroCertificateSubject: rderbier
+  metroCertificateIssuer: rderbier
+  metroCertificateNotAfter: 0060c3cc1634d701
   metroApplicationDescription: Template_3D
   wsaImages: {}
-  metroTileShortName: 
+  metroTileShortName: PictureSample
   metroTileShowName: 0
   metroMediumTileShowName: 0
   metroLargeTileShowName: 0

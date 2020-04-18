@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/CameraPicture/Scenes/TakePictureScene.unity
+- path: Assets/TakePicture/Scenes/TakePictureScene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
