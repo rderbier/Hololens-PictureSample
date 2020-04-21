@@ -7,7 +7,7 @@ Refer to [Locatable camera info from Microsoft](https://docs.microsoft.com/en-us
 
 [Locatable camera in Unity](https://docs.microsoft.com/en-us/windows/mixed-reality/locatable-camera-in-unity) provides the key API and sample scripts.
 ### Dependencies
-MRTK Foundation 2.3.0
+- MRTK Foundation 2.3.0
 
 ### Install
 Open the project in Unity 2019.2.17f1
